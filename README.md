@@ -1,7 +1,7 @@
-icsdquer
-========
+icsd_query
+==========
 
-'icsdquer' is a search engine for ICSD datagbase
+'icsdquer' is a search engine for ICSD database
 
 ## Usage
 
